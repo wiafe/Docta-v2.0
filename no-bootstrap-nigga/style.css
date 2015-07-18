@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	float: left;
+}
+
+.container{
+	padding: 0 150px;
+}
