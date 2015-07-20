@@ -13,3 +13,16 @@ img {
 .container{
 	padding: 0 150px;
 }
+
+.cta h1{
+	text-transform: uppercase;
+}
+
+.cta a {
+	display: inline-block;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #3498db;
+}
+
+
